@@ -16,7 +16,7 @@ let loggedIn = true;
 // symbol => unique
 
 // Object
-
+console.log(typeof "krish");
 console.log(typeof 10);  // number
 console.log(typeof null); // object
 console.log(typeof undefined); //undefined
