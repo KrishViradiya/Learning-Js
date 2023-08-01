@@ -9,10 +9,11 @@ console.log(inValueNumber);
 //"33" => 33
 // "33abc" => NaN
 // true => 1; false=> 0;
+// "" => boolean false
 
 let isLoggedIn =1;
 let bool = Boolean(isLoggedIn);
-console.log(bool);  // true
+console.log(bool);  // Output: true
 
 let someNumber = 33;
 
